@@ -78,8 +78,8 @@ module.exports = function (grunt) {
                 options: {
                     specs: 'test/*.js',
                     vendor: [
-                        'bower_components/angularjs/angular.min.js',
-                        'bower_components/angular-mocks/angular-mocks.js'
+                        'www/lib/angularjs/angular.min.js',
+                        'www/lib/angular-mocks/angular-mocks.js'
                     ]
                 }
             }

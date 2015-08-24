@@ -25,6 +25,7 @@ build/Release
 bower_components
 dist/docs
 node_modules
+www/lib
 
 # Project directory
 .idea
